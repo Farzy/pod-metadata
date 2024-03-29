@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: test-container
-          image:  siddharth67/pod-metadata:v1
+          image:  siddharth67/pod-metadataX:v1
           imagePullPolicy: Always
           resources:
             requests:
